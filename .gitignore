@@ -1,6 +1,4 @@
-/*.xls
-/*.xlsb
-/*.xlsx
+*.xls
+*.xlsb
+*.xlsx
 /Log.txt
-/RegExp*.vbs
-/RData.xml
