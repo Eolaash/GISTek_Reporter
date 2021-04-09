@@ -1,4 +1,4 @@
 *.xls
 *.xlsb
 *.xlsx
-/Log.txt
+/Log*.txt
